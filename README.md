@@ -1,9 +1,6 @@
-# SQL-Projects
-Collection of diverse SQL projects, showcasing practical applications and solutions for data manipulation, analysis, and database management.
+# SQL-Project - Retail Business Case Study
 
-I will keep uploading various SQL projects in this repository related to SQL.
-
-My First Project is about the retail data analysis , Where I will showcase data preparation and solving few of business queries by doing analysis.
+My First SQL Project is about the retail data analysis , Where I will showcase data preparation and solving few of business queries by doing analysis.
 
 There will be 4 more files in this repository , 3 raw data files , 1 Microsoft SQL Server Query File
 
